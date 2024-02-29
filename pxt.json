@@ -1,0 +1,32 @@
+{
+    "name": "Wizards and Ghouls",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.6.23",
+        "tag": "v1.6.23",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/340c758c98b3a52089cf6a93647bde119c487595",
+        "target": "1.12.47",
+        "pxt": "7.2.24",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
